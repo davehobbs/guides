@@ -39,6 +39,8 @@ guide-category: stacks
 
 ## What you will learn
 
+Some extra bogus text. Just to check a commit.
+
 In this guide, you’ll learn how to create and run a simple cloud native microservice based on the Node.js application stack. You’ll learn how to configure your development environment, update the microservice that you created and deploy it to Kubernetes or serverless. Deployment to serverless is optional depending on whether you want to Scale to Zero.
 
 The Node.js application stack enables the development and optimization of microservices.
